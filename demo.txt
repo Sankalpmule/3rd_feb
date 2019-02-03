@@ -7,4 +7,7 @@ line 6
 line 7 in master & line 7 in f3
 line 8 in feature 4
 line 8 in master
+line 8 in feature4
+line 9 in feature4
+
 
